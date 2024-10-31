@@ -8,4 +8,5 @@ model.py
 util.py
 
 # Ignorer les fichiers compilés de Python
+.gitignore
 __pycache__/
