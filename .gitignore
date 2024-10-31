@@ -1,0 +1,11 @@
+# Ignorer les environnements virtuels
+model/
+
+# Ignorer les fichiers spécifiques au projet
+agent.py
+circle.py
+model.py
+util.py
+
+# Ignorer les fichiers compilés de Python
+__pycache__/
